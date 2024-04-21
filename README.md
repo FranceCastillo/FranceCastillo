@@ -12,7 +12,7 @@
 ###
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="60%">
 
 ### Programming languages 
 <div align="center">  
