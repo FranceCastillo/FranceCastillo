@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="40%">
       <h3>Programming languages</h3>
       <div style="text-align: center;">  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 0 6px;" />
@@ -40,7 +40,7 @@
     </td>
     
 
-  <td valign="top" width="30%">
+  <td valign="top" width="20%">
       <h3>IDEs</h3>
       <div style="text-align: center;"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij idea logo" style="margin: 0 6px;" />
