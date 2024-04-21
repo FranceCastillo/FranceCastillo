@@ -11,9 +11,11 @@
 
 ###
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-  <div>
-    <h3>Programming languages</h3>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Programming languages 
+<div align="center">  
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
     <img width="12" />
@@ -23,25 +25,34 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </div>
+  </td><td valign="top" width="33%">
 
-  <div>
-    <h3>Testing</h3>
+### Testing
+  <div align="center"> 
     <img width="12" />
     <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   </div>
+  
+</td><td valign="top" width="33%">
 
-  <div>
-    <h3>CI/CD</h3>
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+### CI/CD
+  <div align="center">  
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   </div>
+  </td><td valign="top" width="33%">
 
-  <div>
-    <h3>iDES</h3>
+### IDES
+   <div align="center"> 
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+    </div>
 
+</td></tr></table>  
+    
 ###
 
 <div align="left">
