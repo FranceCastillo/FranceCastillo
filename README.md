@@ -12,7 +12,7 @@
 ###
 
 ## My Skill Set  
-<table>
+<table aling="center">
   <tr>
     <td valign="top" width="30%">
 
