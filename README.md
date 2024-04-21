@@ -14,7 +14,7 @@
 ## My Skill Set  
 <table aling="center">
   <tr>
-    <td width="30%">
+    <td valign="top" width="50%">
 
 ### Programming languages 
 <div align="center">  
@@ -39,7 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   </div>
   
-</td><td valign="top" width="30%">
+</td><td valign="top" width="50%">
 
 ### CI/CD
   <div align="center">  
