@@ -25,7 +25,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </div>
-  </td><td valign="top" width="%">
+  </td><td valign="top" width="60%">
 
 ### Testing
   <div align="center"> 
@@ -35,13 +35,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   </div>
   
-</td><td valign="top" width="33%">
+</td><td valign="top" width="60%">
 
 ### CI/CD
   <div align="center">  
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   </div>
-  </td><td valign="top" width="33%">
+  </td><td valign="top" width="40%">
 
 ### IDES
    <div align="center"> 
