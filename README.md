@@ -12,14 +12,13 @@
 ###
 
 
-<h2 align="center"> My Skill Set </h2>
 
 <div align="center">
   <h2 style="margin-bottom: 0;">My Skill Set</h2>
   <table style="border-collapse: collapse; margin: auto;">
     <tr>
       <td style="text-align: center;">
-        <h3>Programming languages</h3>>  
+        <h3>Programming languages</h3>  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="margin: 0 6px;" />
