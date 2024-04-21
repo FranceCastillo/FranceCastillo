@@ -11,39 +11,41 @@
 
 ###
 
-<div align="left">
-  <h3 align="left"> Programming languages <h3>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div>
+    <h3>Programming languages</h3>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </div>
 
-  <div align="rigth">
-  <h3 align="left"> Testing <h3>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-   </div>
+  <div>
+    <h3>Testing</h3>
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
+  </div>
 
-  <div align="left">
-   <h3 align="left"> CI/CD <h3> 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-   </div>
-   
-   <div align="rigth">   
-  <h3 align="left"> iDES <h3>   
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-   </div>
+  <div>
+    <h3>CI/CD</h3>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+  </div>
+
+  <div>
+    <h3>iDES</h3>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  </div>
+</div>
 
 ###
 
@@ -56,9 +58,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/FranceCastillo/FranceCastillo/output/snake.svg" alt="Snake animation" />
 
 ###
