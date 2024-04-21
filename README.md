@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   </div>
   </td>
-  <td valign="top" width="60%">
+  <td valign="top" width="100%">
 
 ### IDES
    <div align="center"> 
