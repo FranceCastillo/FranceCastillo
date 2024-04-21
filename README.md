@@ -12,7 +12,7 @@
 ###
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 ### Programming languages 
 <div align="center">  
@@ -25,7 +25,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </div>
-  </td><td valign="top" width="33%">
+  </td><td valign="top" width="%">
 
 ### Testing
   <div align="center"> 
