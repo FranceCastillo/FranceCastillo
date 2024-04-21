@@ -11,43 +11,37 @@
 
 ###
 
-<div align="center">
+
 <h2 align="center"> My Skill Set </h2>
-<table align="center">
-  <tr>
-    <td valign="top" width="40%">
-      <h3>Programming languages</h3>
-      <div style="text-align: center;">  
+
+<div align="center">
+  <h2 style="margin-bottom: 0;">My Skill Set</h2>
+  <table style="border-collapse: collapse; margin: auto;">
+    <tr>
+      <td style="text-align: center;">
+        <h3>Programming languages</h3>>  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 0 6px;" />
-      </div>
     </td>
     
-  <td valign="top" width="25%">
+   <td style="text-align: center;">
       <h3>Testing</h3>
-      <div style="text-align: center;"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo" style="margin: 0 6px;" />
-      </div>
-    </td>
+   </td>
     
   
-  <td valign="top" width="15%">
+ <td style="text-align: center;">
       <h3>CI/CD</h3>
-      <div style="text-align: center;">  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo" />
-      </div>
     </td>
     
-
-  <td valign="top" width="20%">
+  <td style="text-align: center;">
       <h3>IDEs</h3>
-      <div style="text-align: center;"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij idea logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visual studio logo" style="margin: 0 6px;" />
-      </div>
     </td>
   </tr>
 </table>
