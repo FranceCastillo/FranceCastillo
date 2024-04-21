@@ -11,7 +11,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
   <div>
     <h3>Programming languages</h3>
     <img width="12" />
@@ -41,11 +41,6 @@
   <div>
     <h3>iDES</h3>
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  </div>
-</div>
 
 ###
 
