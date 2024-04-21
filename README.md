@@ -12,7 +12,9 @@
 ###
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table>
+  <tr>
+    <td valign="top" width="30%">
 
 ### Programming languages 
 <div align="center">  
@@ -25,7 +27,9 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </div>
-  </td><td valign="top" width="100%">
+  </td>
+  
+  <td valign="top" width="20%">
 
 ### Testing
   <div align="center"> 
@@ -35,14 +39,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   </div>
   
-</td><td valign="top" width="100%">
+</td><td valign="top" width="30%">
 
 ### CI/CD
   <div align="center">  
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   </div>
   </td>
-  <td valign="top" width="100%">
+  <td valign="top" width="20%">
 
 ### IDES
    <div align="center"> 
