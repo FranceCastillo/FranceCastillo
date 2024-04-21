@@ -11,53 +11,47 @@
 
 ###
 
-## My Skill Set  
-<table aling="center">
+<table>
   <tr>
-    <td valign="top" width="40%">
-
-### Programming languages 
-<div align="center">  
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  </div>
-  </td>
-  
-  <td valign="top" width="35%">
-
-### Testing
-  <div align="center"> 
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-  </div>
-  
-</td><td valign="top" width="20%">
-
-### CI/CD
-  <div align="center">  
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  </div>
-  </td>
-  <td valign="top" width="40%">
-
-### IDES
-   <div align="center"> 
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-    </div>
-
-</td></tr></table>  
+    <!-- Programming Languages -->
+    <td valign="top" width="30%">
+      <h3>Programming languages</h3>
+      <div style="text-align: center;">  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 0 6px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin: 0 6px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="margin: 0 6px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 0 6px;" />
+      </div>
+    </td>
     
+    <!-- Testing -->
+  <td valign="top" width="25%">
+      <h3>Testing</h3>
+      <div style="text-align: center;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" style="margin: 0 6px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo" style="margin: 0 6px;" />
+      </div>
+    </td>
+    
+    <!-- CI/CD -->
+  <td valign="top" width="15%">
+      <h3>CI/CD</h3>
+      <div style="text-align: center;">  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo" />
+      </div>
+    </td>
+    
+    <!-- IDEs -->
+  <td valign="top" width="30%">
+      <h3>IDEs</h3>
+      <div style="text-align: center;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij idea logo" style="margin: 0 6px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visual studio logo" style="margin: 0 6px;" />
+      </div>
+    </td>
+  </tr>
+</table>
+  
 ###
 
 <div align="left">
