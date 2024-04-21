@@ -12,7 +12,7 @@
 ###
 
 <h2 align="left"> My Skill Set </h2>
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="40%">
       <h3>Programming languages</h3>
