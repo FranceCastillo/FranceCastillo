@@ -13,7 +13,6 @@
 
 <table>
   <tr>
-    <!-- Programming Languages -->
     <td valign="top" width="30%">
       <h3>Programming languages</h3>
       <div style="text-align: center;">  
@@ -24,7 +23,6 @@
       </div>
     </td>
     
-    <!-- Testing -->
   <td valign="top" width="25%">
       <h3>Testing</h3>
       <div style="text-align: center;"> 
@@ -33,7 +31,7 @@
       </div>
     </td>
     
-    <!-- CI/CD -->
+  
   <td valign="top" width="15%">
       <h3>CI/CD</h3>
       <div style="text-align: center;">  
@@ -41,7 +39,7 @@
       </div>
     </td>
     
-    <!-- IDEs -->
+
   <td valign="top" width="30%">
       <h3>IDEs</h3>
       <div style="text-align: center;"> 
