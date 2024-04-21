@@ -14,7 +14,7 @@
 ## My Skill Set  
 <table aling="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
 
 ### Programming languages 
 <div align="center">  
@@ -29,7 +29,7 @@
   </div>
   </td>
   
-  <td valign="top" width="20%">
+  <td valign="top" width="35%">
 
 ### Testing
   <div align="center"> 
@@ -39,14 +39,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   </div>
   
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
 
 ### CI/CD
   <div align="center">  
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   </div>
   </td>
-  <td valign="top" width="20%">
+  <td valign="top" width="40%">
 
 ### IDES
    <div align="center"> 
