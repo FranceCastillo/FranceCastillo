@@ -50,8 +50,9 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
     </div>
+    </td><td valign="top" width="40%">
 
-</td></tr></table>  
+</tr></table>  
     
 ###
 
