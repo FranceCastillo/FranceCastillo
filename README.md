@@ -21,30 +21,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  </div>
 
-  <h3 align="rigth"> Testing <h3>
+  <div align="rigth">
+  <h3 align="left"> Testing <h3>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-   <br></br>
-    
+   </div>
+
+  <div align="left">
    <h3 align="left"> CI/CD <h3> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-   <br></br>
-     
-  <h3 align="rigth"> iDES <h3>   
+   </div>
+   
+   <div align="rigth">   
+  <h3 align="left"> iDES <h3>   
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  
-  <br></br>
-  <h3 align="left"> Project Management <h3>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-</div>
+   </div>
 
 ###
 
