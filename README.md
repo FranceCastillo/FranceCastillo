@@ -18,7 +18,7 @@
   <table>
     <tr>
        <td style="text-align: center; vertical-align: middle;">
-        <h3 style="font-size: 16px; margin: 4px 0;">Programming languages</h3>
+        <h3 style="font-size: 14px; margin: 0px 0;">Programming languages</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin: 0 6px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="margin: 0 6px;" />
