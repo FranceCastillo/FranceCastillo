@@ -14,7 +14,7 @@
 ## My Skill Set  
 <table aling="center">
   <tr>
-    <td valign="top" width="30%">
+    <td width="30%">
 
 ### Programming languages 
 <div align="center">  
