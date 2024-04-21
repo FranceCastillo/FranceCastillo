@@ -22,8 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
-  <br></br>
-  <h3 align="left"> Testing <h3>
+  <h3 align="rigth"> Testing <h3>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
   <img width="12" />
@@ -35,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
    <br></br>
      
-  <h3 align="left"> iDES <h3>   
+  <h3 align="rigth"> iDES <h3>   
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
   <img width="12" />
