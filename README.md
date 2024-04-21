@@ -41,7 +41,8 @@
   <div align="center">  
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   </div>
-  </td><td valign="top" width="40%">
+  </td>
+  <td valign="top" width="60%">
 
 ### IDES
    <div align="center"> 
@@ -50,9 +51,8 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
     </div>
-    </td><td valign="top" width="40%">
 
-</tr></table>  
+</td></tr></table>  
     
 ###
 
