@@ -1,6 +1,6 @@
 <h1 align="left">Hi 🙋‍♀️ My name is Francesca  Castillo...</h1>
 
-<h3 align="left"> I'm a very curious person which has allowed me to keep learning day by day, I have 5 years as QA Automation. <h3>
+<h3 align="left"> I'm a very curious person which has allowed me to keep learning day by day, I have 5 years as QA Automation. </h3>
 
 ###
 
@@ -12,20 +12,37 @@
 ###
 
 <div align="left">
+  <h3 align="left"> Programming languages <h3>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+
+  <br></br>
+  <h3 align="left"> Testing <h3>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
+   <br></br>
+    
+   <h3 align="left"> CI/CD <h3> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+   <br></br>
+     
+  <h3 align="left"> iDES <h3>   
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  
+  <br></br>
+  <h3 align="left"> Project Management <h3>
   <img width="12" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
 </div>
