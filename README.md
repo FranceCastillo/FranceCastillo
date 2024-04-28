@@ -1,6 +1,6 @@
 <h1 align="left">Hi 🙋‍♀️ My name is Francesca  Castillo...</h1>
 
-<h3 align="left"> I'm a very curious person which has allowed me to keep learning day by day, I have 5 years as QA Automation. </h3>
+<h3 align="left"> I am a very curious person so I like to learn every day. I have 5 years as QA Automation. </h3>
 
 ###
 
